@@ -11,6 +11,6 @@ A Markov Chain is a stochastic model describing a sequence of possible events wh
 To get started, clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/nifty50-markov-chain.git
+git clone https://github.com/sauravlchaudhari/nifty50-markov-chain.git
 cd nifty50-markov-chain
 pip install -r requirements.txt
